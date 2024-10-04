@@ -1,0 +1,3 @@
+[submodule "DLKSCP_CONVERT_DB_PROCESS"]
+	path = DLKSCP_CONVERT_DB_PROCESS
+	url = ./
